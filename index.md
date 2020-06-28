@@ -15,4 +15,7 @@ Noch ein Wort
 * treu
 * ausdauernd
 
+So wie Stoner sagt:
+> Carpe Diem
+
 

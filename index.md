@@ -9,7 +9,10 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 Noch ein Wort
 
+## Hier findest du meine Charaktereigenschaften
+* wissbgierig
+* naturverbunden
+* treu
+* ausdauernd
 
-*Issue 1 bearbeiten
-*Issue 2 bearbeiten
 
